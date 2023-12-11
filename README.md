@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" height="500" style="min-width:100%"></img>
+<img src="https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif" height="500" style="min-width:100%"></img>
 
 
 <h1 style="color:white">Hello, I'm Ganesan.</h1>
