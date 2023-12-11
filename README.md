@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<h1 style="color:white">Hi, I'm Ganesan.</h1>
+<h1 style="color:white">Hello, I'm Ganesan.</h1>
 I'm a BCA data science student in Crescent University<br>
 Started with frontend developement in react.
 Currently learning Frontend Web development in React
