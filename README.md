@@ -1,4 +1,4 @@
-![Header](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)
+![MasterHead](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)
 
 <h1 style="color:white">Hello, I'm Ganesan.</h1>
 I'm a BCA data science student in Crescent University<br>
