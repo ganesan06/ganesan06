@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" style="min-width:100%"></img>
+<img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif"></img>
 
 <h1 style="color:white">Hello, I'm Ganesan.</h1>
 I'm a BCA data science student in Crescent University<br>
