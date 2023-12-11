@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif)
 
 <h1 style="color:white">Hello, I'm Ganesan.</h1>
 I'm a BCA data science student in Crescent University<br>
